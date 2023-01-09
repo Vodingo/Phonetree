@@ -1,0 +1,18 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Datatables
+@import "~datatables.net-dt/css/jquery.dataTables.css";
+
+//Select2
+@import "~select2/src/scss/core.scss";
+@import "~@ttskch/select2-bootstrap4-theme/src/layout.scss";
+
+//Chartjs
+@import "~chart.js/dist/Chart.css";
